@@ -41,5 +41,6 @@ def main():
         main()
     
 
-# Calling the Main module
-main()
+# Calling the main module
+if __name__ == '__main__':
+    main();
